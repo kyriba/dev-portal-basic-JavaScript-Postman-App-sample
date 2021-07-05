@@ -44,12 +44,6 @@ with this one:
 console.log(JSON.stringify(JSON.parse(this.responseText), null, 2));
 ```
 
-Install xmlhttprequest module in the project folder via Terminal:
-
-```cmd
-npm install xmlhttprequest
-```
-
 Run the project in Terminal in the root folder of cloned app:
 
 ```cmd
