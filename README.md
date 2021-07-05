@@ -34,13 +34,7 @@ Open the .../App.js file with any text redactor and input your piece of code:
 
 ![img1.png](img1.png)
 
-If you would like to display the response body in the Terminal in a more readable format, please replace the
-
-```cmd
-console.log(this.responseText);
-```
-
-line of code with:
+If you would like to display the response body in the Terminal in a more readable format, please replace the `console.log(this.responseText);` line of code with:
 
 ```cmd
 console.log(JSON.stringify(JSON.parse(this.responseText), null, 2));
