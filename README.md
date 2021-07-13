@@ -1,4 +1,4 @@
-# dev-portal-basic-JavaScript-Postman-App
+# dev-portal-basic-JavaScript-Postman-App-sample
 
 ## Requirements
 
@@ -19,7 +19,7 @@ git clone https://github.com/kyriba/dev-portal-basic-JavaScript-Postman-App-samp
 Open the project folder via command prompt, for example:
 
 ```cmd
-cd dev-portal-basic-JavaScript-Postman-App
+cd dev-portal-basic-JavaScript-Postman-App-sample
 ```
 
 Select the desired Collection in Postman, authenticate through "Get token." request and run the request that you want to provide in the Application. If the request works, copy code from Postman:
